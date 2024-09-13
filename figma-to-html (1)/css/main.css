@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+header{
+    font-size: 55px;
+    height: 300;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    background-color: #DFD3C3;
+    box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  background-color: #F8EDE3;
+}
+.v1 {
+  background: #F8EDE3;
+  width: 981px;
+  height: 564px;
+}
+h1 {
+  font-size: 19;
+}
+.IMG{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+ul{
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0%;
+}
+li{
+  display: inline;
+}
